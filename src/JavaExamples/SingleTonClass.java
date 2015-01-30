@@ -1,19 +1,19 @@
 //http://examplesofjava.com/statickeyword/singleton-example.html
 package JavaExamples;
-public class SingleTonClass
+public class SingletonClass
 {
-	static SingleTonClass singleton = null;
+	static SingletonClass singleton = null;
 	
-	private SingleTonClass()
+	private SingletonClass()
 	{
 	
 	}
 	
-	public static SingleTonClass getInstance()
+	public static SingletonClass getInstance()
 	{
 		if(singleton == null)
 		{
-			singleton = new SingleTonClass();
+			singleton = new SingletonClass();
 			return singleton;
 		}
 		return singleton;
@@ -23,8 +23,8 @@ public class SingleTonClass
 	{
 		public static void main(String args[])
 		{
-			SingleTonClass S1 = SingleTonClass.getInstance();
-			SingleTonClass S2 = SingleTonClass.getInstance();
+			SingletonClass S1 = SingletonClass.getInstance();
+			SingletonClass S2 = SingletonClass.getInstance();
 			
 			if(S1 == S2)
 			{
