@@ -1,9 +1,10 @@
 package JavaExamples;
 import java.util.Enumeration;
-import java.util.HashMap;
 import java.util.Iterator;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Set;
-public class HashMap
+public class HashMapEx
 {
 	public static void main(String[] args)
 	{
