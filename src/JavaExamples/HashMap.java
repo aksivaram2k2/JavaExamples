@@ -3,7 +3,7 @@ import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
-public class HashMap1
+public class HashMap
 {
 	public static void main(String[] args)
 	{
