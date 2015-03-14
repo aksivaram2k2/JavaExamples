@@ -2,12 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/fluent-hc-4.3.6.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/httpclient-4.3.6.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/httpclient-cache-4.3.6.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/httpcore-4.3.3.jar"/>
-	<classpathentry kind="lib" path="D:/JavaExamples/lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/fluent-hc-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/httpclient-cache-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sannadurai.TYCOFS/workspace/JavaExamples/jar/unirest-java-1.4.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
