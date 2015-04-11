@@ -98,11 +98,14 @@ public class ThreadPoolExecutorSample
 		};
 		
 		LinkedBlockingQueue<Runnable> queue = new LinkedBlockingQueue<Runnable>();
+		//Run 1
+		System.out.println("Run 1"); 
 		ThreadPoolExecutor executorService = new ThreadPoolExecutor(2, 2, 10, TimeUnit.SECONDS, queue);
 		executorService.execute(firstTask);
 		executorService.execute(secondTask);
 		executorService.execute(thirdTask);
 		executorService.execute(fourthTask);
+
 		
 	}
 }
